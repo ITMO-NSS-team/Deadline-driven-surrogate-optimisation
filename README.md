@@ -1,5 +1,5 @@
 # Deadline-driven-surrogate-optimisation
-Here you can find the source code of the algorithms for deadline-driven calibration, described in this [paper](https://dl.acm.org/citation.cfm?id=3326876). 
+Here you can find the source code of the algorithms for deadline-driven calibration, described in this [paper](https://www.researchgate.net/publication/334381815_Deadline-driven_approach_for_multi-fidelity_surrogate-assisted_environmental_model_calibration_SWAN_wind_wave_model_case_study). 
 Our code helps to calibrate complex environmental models. This multi-fidelity approach is helpful in cases when high computational cost of simulations is unacceptable (e.g. in need of fast reaction on natural accidents consequences) or when precise and fast forecast is needed (e.g.in rescue operations).
 ## More
 Suggested algorithm provides deadline-driven approach for surrogate-assisted model calibration, which helps to dynamically adjust a model, trying to ensure better fitness approximation.
